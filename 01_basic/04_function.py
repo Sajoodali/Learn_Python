@@ -1,3 +1,6 @@
+# creat OTP fonction 
+
+
 import random
 
 def generate_otp(length=5):
