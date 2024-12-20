@@ -12,7 +12,6 @@ numbers = [1, -2, 3, -4, 5, 6, -7, -8, 9, 10]
 
 </details>
 
-
 <details>
 <summary>
 2. Sum of Even Numbers
@@ -20,7 +19,6 @@ numbers = [1, -2, 3, -4, 5, 6, -7, -8, 9, 10]
 Problem: Calculate the sum of even numbers up to a given number n.
 
 </details>
-
 
 <details>
 <summary>
@@ -30,7 +28,6 @@ Problem: Print the multiplication table for a given number up to 10, but skip th
 
 </details>
 
-
 <details>
 <summary>
 4. Reverse a String
@@ -38,7 +35,6 @@ Problem: Print the multiplication table for a given number up to 10, but skip th
 Problem: Reverse a string using a loop.
 
 </details>
-
 
 <details>
 <summary>
@@ -48,7 +44,6 @@ Problem: Given a string, find the first non-repeated character.
 
 </details>
 
-
 <details>
 <summary>
 6. Factorial Calculator
@@ -56,7 +51,6 @@ Problem: Given a string, find the first non-repeated character.
 Problem: Compute the factorial of a number using a while loop.
 
 </details>
-
 
 <details>
 <summary>
@@ -66,7 +60,6 @@ Problem: Keep asking the user for input until they enter a number between 1 and 
 
 </details>
 
-
 <details>
 <summary>
 8. Prime Number Checker
@@ -74,7 +67,6 @@ Problem: Keep asking the user for input until they enter a number between 1 and 
 Problem: Check if a number is prime.
 
 </details>
-
 
 <details>
 <summary>
@@ -85,8 +77,8 @@ Problem: Check if all elements in a list are unique. If a duplicate is found, ex
 ```python
 items = ["apple", "banana", "orange", "apple", "mango"]
 ```
-</details>
 
+</details>
 
 <details>
 <summary>
